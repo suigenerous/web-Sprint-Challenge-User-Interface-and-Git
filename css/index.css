@@ -262,3 +262,23 @@ header nav a {
 .together{
     padding: 3%;
 }
+
+.strategy h2{
+    margin-top:2%;
+}
+
+.work h2{
+    margin-top:2%;
+}
+
+.places h2{
+    margin-top:2%;
+}
+
+.collaboration h2{
+    margin-top:2%;
+}
+
+.aboutNav{
+    width: 100%;
+}
