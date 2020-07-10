@@ -204,11 +204,11 @@ header nav a {
 }
 
 .general {
-    border-bottom: 2px grey;
+    border-bottom: 1px grey;
     margin-top: 2%;
     margin-bottom: 2%;
-    padding:1%;
-    border-style:solid;
+    padding:2%;
+    border-style:dashed;
 }
 
 .strategy, .work, .places, .collaboration{
@@ -217,7 +217,7 @@ header nav a {
     margin-top: 4%;
     margin-bottom: 4%;
     padding: 1%;
-    border-bottom: 2px solid grey;
+    border-bottom: 1px dashed grey;
 
 }
 
@@ -246,14 +246,19 @@ header nav a {
     width:100%;
     flex-wrap: wrap;
     justify-content: flex-start;
-    border-style: solid;
+    border-style: dashed;
 }
 
 .learn{
     padding: 2%;
     margin-top:2%;
+    margin-bottom: 4%;
     width:30%;
     border: 2px solid black;
     border-radius: 10px;
     background-color: white;;
+}
+
+.together{
+    padding: 3%;
 }
