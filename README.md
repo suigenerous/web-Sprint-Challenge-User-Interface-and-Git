@@ -105,3 +105,24 @@ After finishing your required elements, you can push your work further. These go
 * [ ] refactor your HTML, make sure it's indented properly, clean, readable, you have written appropriate comments where necessary and that all attributes (required and encouraged) are filled out correctly.  
 * [ ] Ensure your CSS is organized and readable, you've seperated your code by section and that you are using descriptive class names and adding classes in your HTML where styles repeat rather than rewrting the same styles over again
 * [ ] Use a flex item property of your choice when laying out a section of your website, ensure you can explain how and why you've used this property 
+
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+It's the html that gives content meaning!
+
+Name two big differences between display: block; and display: inline;.
+
+Creates a new line. Creates the element on the same line.
+
+What are the 4 areas of the box model?
+
+Padding, margin, content, border
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Cross axis
+
+Explain why git is valuable to a team of developers.
+
+Version Control!!!! Keep track of all the changes!
